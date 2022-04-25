@@ -12,5 +12,6 @@ pavucontrol ,
 polybar ,
 nm-tray ,
 pa-applet-git ,
-picom
+picom ,
+nitrogen
 
