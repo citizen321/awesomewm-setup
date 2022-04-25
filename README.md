@@ -4,12 +4,12 @@ Feel free to copy or edit it
 
 list of packages to dowload:
 
-firedragon
-alacritty
-thunar
-Jetbrains Nerd Font
-pavucontrol
-polybar
-nm-tray
+firedragon ,
+alacritty ,
+thunar ,
+Jetbrains Nerd Font ,
+pavucontrol ,
+polybar ,
+nm-tray ,
 pa-applet-git
 
