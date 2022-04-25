@@ -11,5 +11,6 @@ Jetbrains Nerd Font ,
 pavucontrol ,
 polybar ,
 nm-tray ,
-pa-applet-git
+pa-applet-git ,
+picom
 
